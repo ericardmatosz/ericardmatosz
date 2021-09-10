@@ -1,8 +1,12 @@
-<h3>Hello! 👋</h3>
-<h4>I'm Érica Matos, currently working as software developer jr. 😊</h4>
-<p> - 🖥 I currently work with front-end </p>
-<p> - 📚 I’m currently learning Angular 2+</p>
-<p> - ❤ Future computer scientist</p>
+### Hello! 👋
+
+#### I'm Érica Matos, currently working as software developer jr. 😊
+
+- 🖥 I currently work with front-end
+- 📚 I’m currently learning Angular 2+
+- ❤ Future computer scientist
+
+##
 
 <div>
   <a href="https://github.com/ericardmatosz">
@@ -24,8 +28,8 @@
   <img align="center" alt="Icon-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  </div>
   
-  <br>
-
+##
+  
 <div> 
   <a href="https://instagram.com/erimatosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericardmatosz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
