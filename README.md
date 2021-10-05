@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-#### I'm Érica Matos, currently working as software developer jr. 😊
+#### I'm Érica Matos, currently working as front-end developer jr. 😊
 
-- 🖥 I currently work with front-end
-- 📚 I’m currently learning Angular 2+
+- 🖥 I currently work in https://infocap.com.br/
+- 📚 I’m currently learning Angular 2+ and TypeScript
 - ❤ Future computer scientist
 
 ##
