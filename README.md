@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/ericardmatosz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ericardmatosz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericardmatosz&layout=compact&langs_count=7&theme=omni"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericardmatosz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericardmatosz&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -33,7 +33,7 @@
 <div> 
   <a href="https://instagram.com/erimatosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericardmatosz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--   <a href="https://www.linkedin.com/in/lauren-leslie-ferreira-da-silva-9b3bb6157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/ericardmatos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ericardmatosz/ericardmatosz/blob/output/github-contribution-grid-snake.svg)
  
